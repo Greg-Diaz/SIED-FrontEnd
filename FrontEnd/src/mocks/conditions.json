@@ -1,0 +1,37 @@
+[
+  {
+    "id": "AG",
+    "name": "Aspectos Generales",
+    "order": 1
+  },
+  {
+    "id": "CI",
+    "name": "Capacidad Instalada",
+    "order": 2
+  },
+  {
+    "id": "SPyB",
+    "name": "Seguridad, Protección y Bienestar",
+    "order": 3
+  },
+  {
+    "id": "OADS",
+    "name": "Organización Administrativa para la Docencia Servicio",
+    "order": 4
+  },
+  {
+    "id": "PD",
+    "name": "Personal Docente",
+    "order": 5
+  },
+  {
+    "id": "PF",
+    "name": "Prácticas Formativas",
+    "order": 6
+  },
+  {
+    "id": "CMC",
+    "name": "Cultura del Mejoramiento Continuo",
+    "order": 7
+  }
+]

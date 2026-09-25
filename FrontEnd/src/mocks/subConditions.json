@@ -1,0 +1,58 @@
+[
+  {
+    "id": "AG-1",
+    "conditionId": "AG",
+    "code": "AG",
+    "name": "Aspectos Generales",
+    "order": 1
+  },
+  {
+    "id": "CI-2.1",
+    "conditionId": "CI",
+    "code": "2.1",
+    "name": "Análisis de la Capacidad Instalada",
+    "order": 1
+  },
+  {
+    "id": "CI-2.2",
+    "conditionId": "CI",
+    "code": "2.2",
+    "name": "Infraestructura y Medios Educativos",
+    "order": 2
+  },
+  {
+    "id": "SPyB-1",
+    "conditionId": "SPyB",
+    "code": "SPyB",
+    "name": "Seguridad, Protección y Bienestar",
+    "order": 1
+  },
+  {
+    "id": "OADS-1",
+    "conditionId": "OADS",
+    "code": "OADS",
+    "name": "Organización Administrativa para la Docencia Servicio",
+    "order": 1
+  },
+  {
+    "id": "PD-1",
+    "conditionId": "PD",
+    "code": "PD",
+    "name": "Personal Docente",
+    "order": 1
+  },
+  {
+    "id": "PF-1",
+    "conditionId": "PF",
+    "code": "PF",
+    "name": "Prácticas Formativas",
+    "order": 1
+  },
+  {
+    "id": "CMC-1",
+    "conditionId": "CMC",
+    "code": "CMC",
+    "name": "Cultura del Mejoramiento Continuo",
+    "order": 1
+  }
+]

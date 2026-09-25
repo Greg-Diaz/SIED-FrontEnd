@@ -1,0 +1,50 @@
+[
+  {
+    "id": "objective-global",
+    "conditionId": null,
+    "title": "Cumplimiento global de la relación docencia servicio",
+    "description": "Determinar el nivel de cumplimiento general del escenario frente a las 7 condiciones de calidad del modelo de autoevaluación."
+  },
+  {
+    "id": "objective-ag",
+    "conditionId": "AG",
+    "title": "Cumplimiento de los aspectos generales",
+    "description": "Determinar el nivel de cumplimiento de los criterios asociados a los aspectos generales del escenario."
+  },
+  {
+    "id": "objective-ci",
+    "conditionId": "CI",
+    "title": "Cumplimiento de la capacidad instalada",
+    "description": "Determinar el nivel de cumplimiento de la capacidad instalada y de la infraestructura y medios educativos disponibles para la docencia servicio."
+  },
+  {
+    "id": "objective-spyb",
+    "conditionId": "SPyB",
+    "title": "Cumplimiento de seguridad, protección y bienestar",
+    "description": "Determinar el nivel de cumplimiento de las condiciones de seguridad, protección y bienestar para estudiantes y docentes en el escenario."
+  },
+  {
+    "id": "objective-oads",
+    "conditionId": "OADS",
+    "title": "Cumplimiento de la organización administrativa para la docencia servicio",
+    "description": "Determinar el nivel de cumplimiento de la organización administrativa que soporta la relación docencia servicio."
+  },
+  {
+    "id": "objective-pd",
+    "conditionId": "PD",
+    "title": "Cumplimiento del personal docente",
+    "description": "Determinar el nivel de cumplimiento de la idoneidad, suficiencia y formación continua del personal docente."
+  },
+  {
+    "id": "objective-pf",
+    "conditionId": "PF",
+    "title": "Cumplimiento de las prácticas formativas",
+    "description": "Determinar el nivel de cumplimiento de los registros calificados, convenios y mecanismos de evaluación de las prácticas formativas."
+  },
+  {
+    "id": "objective-cmc",
+    "conditionId": "CMC",
+    "title": "Cumplimiento de la cultura del mejoramiento continuo",
+    "description": "Determinar el nivel de cumplimiento de la autoevaluación y los planes de mejoramiento de la relación docencia servicio."
+  }
+]

@@ -1,0 +1,518 @@
+[
+  {
+    "scenarioId": "scenario-hospital-central",
+    "criterionId": "AG-01",
+    "status": "C",
+    "comments": "Cumple. Evidencia verificada durante la revisión documental."
+  },
+  {
+    "scenarioId": "scenario-hospital-central",
+    "criterionId": "AG-02",
+    "status": "C",
+    "comments": "Cumple. Se constató la evidencia solicitada sin observaciones."
+  },
+  {
+    "scenarioId": "scenario-hospital-central",
+    "criterionId": "AG-03",
+    "status": "C",
+    "comments": "Cumple a satisfacción según lo evidenciado en la visita."
+  },
+  {
+    "scenarioId": "scenario-hospital-central",
+    "criterionId": "AG-04",
+    "status": "NC",
+    "comments": "No cumple. Evidencia incompleta o desactualizada."
+  },
+  {
+    "scenarioId": "scenario-hospital-central",
+    "criterionId": "AG-05",
+    "status": "C",
+    "comments": "Cumple. Evidencia verificada durante la revisión documental."
+  },
+  {
+    "scenarioId": "scenario-hospital-central",
+    "criterionId": "AG-06",
+    "status": "C",
+    "comments": "Cumple. Se constató la evidencia solicitada sin observaciones."
+  },
+  {
+    "scenarioId": "scenario-hospital-central",
+    "criterionId": "AG-07",
+    "status": "NA",
+    "comments": "No aplica para el tipo de servicios prestados en este escenario."
+  },
+  {
+    "scenarioId": "scenario-hospital-central",
+    "criterionId": "AG-08",
+    "status": "C",
+    "comments": "Cumple. Información confirmada con el personal entrevistado."
+  },
+  {
+    "scenarioId": "scenario-hospital-central",
+    "criterionId": "CI-2.1-01",
+    "status": "C",
+    "comments": "Cumple. Evidencia verificada durante la revisión documental."
+  },
+  {
+    "scenarioId": "scenario-hospital-central",
+    "criterionId": "CI-2.1-02",
+    "status": "C",
+    "comments": "Cumple. Se constató la evidencia solicitada sin observaciones."
+  },
+  {
+    "scenarioId": "scenario-hospital-central",
+    "criterionId": "CI-2.1-03",
+    "status": "NC",
+    "comments": "No cumple. Se requiere plan de mejoramiento para este criterio."
+  },
+  {
+    "scenarioId": "scenario-hospital-central",
+    "criterionId": "CI-2.1-04",
+    "status": "C",
+    "comments": "Cumple. Información confirmada con el personal entrevistado."
+  },
+  {
+    "scenarioId": "scenario-hospital-central",
+    "criterionId": "CI-2.2-01",
+    "status": "C",
+    "comments": "Cumple. Evidencia verificada durante la revisión documental."
+  },
+  {
+    "scenarioId": "scenario-hospital-central",
+    "criterionId": "CI-2.2-02",
+    "status": "C",
+    "comments": "Cumple. Se constató la evidencia solicitada sin observaciones."
+  },
+  {
+    "scenarioId": "scenario-hospital-central",
+    "criterionId": "CI-2.2-03",
+    "status": "NC",
+    "comments": "No cumple. Se requiere plan de mejoramiento para este criterio."
+  },
+  {
+    "scenarioId": "scenario-hospital-central",
+    "criterionId": "CI-2.2-04",
+    "status": "C",
+    "comments": "Cumple. Información confirmada con el personal entrevistado."
+  },
+  {
+    "scenarioId": "scenario-hospital-central",
+    "criterionId": "CI-2.2-05",
+    "status": "C",
+    "comments": "Cumple. Evidencia verificada durante la revisión documental."
+  },
+  {
+    "scenarioId": "scenario-hospital-central",
+    "criterionId": "CI-2.2-06",
+    "status": "NA",
+    "comments": "No aplica: el escenario no desarrolla este tipo de práctica."
+  },
+  {
+    "scenarioId": "scenario-hospital-central",
+    "criterionId": "CI-2.2-07",
+    "status": "C",
+    "comments": "Cumple a satisfacción según lo evidenciado en la visita."
+  },
+  {
+    "scenarioId": "scenario-hospital-central",
+    "criterionId": "CI-2.2-08",
+    "status": "NC",
+    "comments": "No cumple. Evidencia incompleta o desactualizada."
+  },
+  {
+    "scenarioId": "scenario-hospital-central",
+    "criterionId": "CI-2.2-09",
+    "status": "C",
+    "comments": "Cumple. Evidencia verificada durante la revisión documental."
+  },
+  {
+    "scenarioId": "scenario-hospital-central",
+    "criterionId": "SPyB-01",
+    "status": "C",
+    "comments": "Cumple. Se constató la evidencia solicitada sin observaciones."
+  },
+  {
+    "scenarioId": "scenario-hospital-central",
+    "criterionId": "SPyB-02",
+    "status": "C",
+    "comments": "Cumple a satisfacción según lo evidenciado en la visita."
+  },
+  {
+    "scenarioId": "scenario-hospital-central",
+    "criterionId": "SPyB-03",
+    "status": "NC",
+    "comments": "No cumple. Evidencia incompleta o desactualizada."
+  },
+  {
+    "scenarioId": "scenario-hospital-central",
+    "criterionId": "SPyB-04",
+    "status": "C",
+    "comments": "Cumple. Evidencia verificada durante la revisión documental."
+  },
+  {
+    "scenarioId": "scenario-hospital-central",
+    "criterionId": "SPyB-05",
+    "status": "C",
+    "comments": "Cumple. Se constató la evidencia solicitada sin observaciones."
+  },
+  {
+    "scenarioId": "scenario-hospital-central",
+    "criterionId": "SPyB-06",
+    "status": "C",
+    "comments": "Cumple a satisfacción según lo evidenciado en la visita."
+  },
+  {
+    "scenarioId": "scenario-hospital-central",
+    "criterionId": "OADS-01",
+    "status": "C",
+    "comments": "Cumple. Información confirmada con el personal entrevistado."
+  },
+  {
+    "scenarioId": "scenario-hospital-central",
+    "criterionId": "OADS-02",
+    "status": "NC",
+    "comments": "No cumple. Pendiente por subsanar antes de la siguiente autoevaluación."
+  },
+  {
+    "scenarioId": "scenario-hospital-central",
+    "criterionId": "OADS-03",
+    "status": "C",
+    "comments": "Cumple. Se constató la evidencia solicitada sin observaciones."
+  },
+  {
+    "scenarioId": "scenario-hospital-central",
+    "criterionId": "OADS-04",
+    "status": "NA",
+    "comments": "No aplica para el tipo de servicios prestados en este escenario."
+  },
+  {
+    "scenarioId": "scenario-hospital-central",
+    "criterionId": "OADS-05",
+    "status": "NC",
+    "comments": "No cumple. Evidencia incompleta o desactualizada."
+  },
+  {
+    "scenarioId": "scenario-hospital-central",
+    "criterionId": "OADS-06",
+    "status": "C",
+    "comments": "Cumple. Evidencia verificada durante la revisión documental."
+  },
+  {
+    "scenarioId": "scenario-hospital-central",
+    "criterionId": "PD-01",
+    "status": "C",
+    "comments": "Cumple. Se constató la evidencia solicitada sin observaciones."
+  },
+  {
+    "scenarioId": "scenario-hospital-central",
+    "criterionId": "PD-02",
+    "status": "NC",
+    "comments": "No cumple. Se requiere plan de mejoramiento para este criterio."
+  },
+  {
+    "scenarioId": "scenario-hospital-central",
+    "criterionId": "PD-03",
+    "status": "C",
+    "comments": "Cumple. Información confirmada con el personal entrevistado."
+  },
+  {
+    "scenarioId": "scenario-hospital-central",
+    "criterionId": "PD-04",
+    "status": "PENDING",
+    "comments": ""
+  },
+  {
+    "scenarioId": "scenario-hospital-central",
+    "criterionId": "PF-01",
+    "status": "C",
+    "comments": "Cumple. Se constató la evidencia solicitada sin observaciones."
+  },
+  {
+    "scenarioId": "scenario-hospital-central",
+    "criterionId": "PF-02",
+    "status": "NC",
+    "comments": "No cumple. Se requiere plan de mejoramiento para este criterio."
+  },
+  {
+    "scenarioId": "scenario-hospital-central",
+    "criterionId": "PF-03",
+    "status": "NA",
+    "comments": "No aplica: el escenario no desarrolla este tipo de práctica."
+  },
+  {
+    "scenarioId": "scenario-hospital-central",
+    "criterionId": "PF-04",
+    "status": "PENDING",
+    "comments": ""
+  },
+  {
+    "scenarioId": "scenario-hospital-central",
+    "criterionId": "CMC-01",
+    "status": "C",
+    "comments": "Cumple. Se constató la evidencia solicitada sin observaciones."
+  },
+  {
+    "scenarioId": "scenario-hospital-central",
+    "criterionId": "CMC-02",
+    "status": "NC",
+    "comments": "No cumple. Se requiere plan de mejoramiento para este criterio."
+  },
+  {
+    "scenarioId": "scenario-centro-comunitario",
+    "criterionId": "AG-01",
+    "status": "C",
+    "comments": "Cumple. Evidencia verificada durante la revisión documental."
+  },
+  {
+    "scenarioId": "scenario-centro-comunitario",
+    "criterionId": "AG-02",
+    "status": "PENDING",
+    "comments": ""
+  },
+  {
+    "scenarioId": "scenario-centro-comunitario",
+    "criterionId": "AG-03",
+    "status": "C",
+    "comments": "Cumple a satisfacción según lo evidenciado en la visita."
+  },
+  {
+    "scenarioId": "scenario-centro-comunitario",
+    "criterionId": "AG-04",
+    "status": "NC",
+    "comments": "No cumple. Evidencia incompleta o desactualizada."
+  },
+  {
+    "scenarioId": "scenario-centro-comunitario",
+    "criterionId": "AG-05",
+    "status": "C",
+    "comments": "Cumple. Evidencia verificada durante la revisión documental."
+  },
+  {
+    "scenarioId": "scenario-centro-comunitario",
+    "criterionId": "AG-06",
+    "status": "PENDING",
+    "comments": ""
+  },
+  {
+    "scenarioId": "scenario-centro-comunitario",
+    "criterionId": "AG-07",
+    "status": "NC",
+    "comments": "No cumple. Se requiere plan de mejoramiento para este criterio."
+  },
+  {
+    "scenarioId": "scenario-centro-comunitario",
+    "criterionId": "AG-08",
+    "status": "C",
+    "comments": "Cumple. Información confirmada con el personal entrevistado."
+  },
+  {
+    "scenarioId": "scenario-centro-comunitario",
+    "criterionId": "CI-2.1-01",
+    "status": "NA",
+    "comments": "No aplica para el tipo de servicios prestados en este escenario."
+  },
+  {
+    "scenarioId": "scenario-centro-comunitario",
+    "criterionId": "CI-2.1-02",
+    "status": "NA",
+    "comments": "No aplica: el escenario no desarrolla este tipo de práctica."
+  },
+  {
+    "scenarioId": "scenario-centro-comunitario",
+    "criterionId": "CI-2.1-03",
+    "status": "NA",
+    "comments": "No aplica para el tipo de servicios prestados en este escenario."
+  },
+  {
+    "scenarioId": "scenario-centro-comunitario",
+    "criterionId": "CI-2.1-04",
+    "status": "NA",
+    "comments": "No aplica: el escenario no desarrolla este tipo de práctica."
+  },
+  {
+    "scenarioId": "scenario-centro-comunitario",
+    "criterionId": "CI-2.2-01",
+    "status": "C",
+    "comments": "Cumple. Evidencia verificada durante la revisión documental."
+  },
+  {
+    "scenarioId": "scenario-centro-comunitario",
+    "criterionId": "CI-2.2-02",
+    "status": "C",
+    "comments": "Cumple. Se constató la evidencia solicitada sin observaciones."
+  },
+  {
+    "scenarioId": "scenario-centro-comunitario",
+    "criterionId": "CI-2.2-03",
+    "status": "NC",
+    "comments": "No cumple. Se requiere plan de mejoramiento para este criterio."
+  },
+  {
+    "scenarioId": "scenario-centro-comunitario",
+    "criterionId": "CI-2.2-04",
+    "status": "C",
+    "comments": "Cumple. Información confirmada con el personal entrevistado."
+  },
+  {
+    "scenarioId": "scenario-centro-comunitario",
+    "criterionId": "CI-2.2-05",
+    "status": "C",
+    "comments": "Cumple. Evidencia verificada durante la revisión documental."
+  },
+  {
+    "scenarioId": "scenario-centro-comunitario",
+    "criterionId": "CI-2.2-06",
+    "status": "C",
+    "comments": "Cumple. Se constató la evidencia solicitada sin observaciones."
+  },
+  {
+    "scenarioId": "scenario-centro-comunitario",
+    "criterionId": "CI-2.2-07",
+    "status": "NC",
+    "comments": "No cumple. Se requiere plan de mejoramiento para este criterio."
+  },
+  {
+    "scenarioId": "scenario-centro-comunitario",
+    "criterionId": "CI-2.2-08",
+    "status": "C",
+    "comments": "Cumple. Información confirmada con el personal entrevistado."
+  },
+  {
+    "scenarioId": "scenario-centro-comunitario",
+    "criterionId": "CI-2.2-09",
+    "status": "C",
+    "comments": "Cumple. Evidencia verificada durante la revisión documental."
+  },
+  {
+    "scenarioId": "scenario-centro-comunitario",
+    "criterionId": "SPyB-01",
+    "status": "C",
+    "comments": "Cumple. Se constató la evidencia solicitada sin observaciones."
+  },
+  {
+    "scenarioId": "scenario-centro-comunitario",
+    "criterionId": "SPyB-02",
+    "status": "C",
+    "comments": "Cumple a satisfacción según lo evidenciado en la visita."
+  },
+  {
+    "scenarioId": "scenario-centro-comunitario",
+    "criterionId": "SPyB-03",
+    "status": "C",
+    "comments": "Cumple. Información confirmada con el personal entrevistado."
+  },
+  {
+    "scenarioId": "scenario-centro-comunitario",
+    "criterionId": "SPyB-04",
+    "status": "NC",
+    "comments": "No cumple. Pendiente por subsanar antes de la siguiente autoevaluación."
+  },
+  {
+    "scenarioId": "scenario-centro-comunitario",
+    "criterionId": "SPyB-05",
+    "status": "C",
+    "comments": "Cumple. Se constató la evidencia solicitada sin observaciones."
+  },
+  {
+    "scenarioId": "scenario-centro-comunitario",
+    "criterionId": "SPyB-06",
+    "status": "C",
+    "comments": "Cumple a satisfacción según lo evidenciado en la visita."
+  },
+  {
+    "scenarioId": "scenario-centro-comunitario",
+    "criterionId": "OADS-01",
+    "status": "C",
+    "comments": "Cumple. Información confirmada con el personal entrevistado."
+  },
+  {
+    "scenarioId": "scenario-centro-comunitario",
+    "criterionId": "OADS-02",
+    "status": "NC",
+    "comments": "No cumple. Pendiente por subsanar antes de la siguiente autoevaluación."
+  },
+  {
+    "scenarioId": "scenario-centro-comunitario",
+    "criterionId": "OADS-03",
+    "status": "C",
+    "comments": "Cumple. Se constató la evidencia solicitada sin observaciones."
+  },
+  {
+    "scenarioId": "scenario-centro-comunitario",
+    "criterionId": "OADS-04",
+    "status": "PENDING",
+    "comments": ""
+  },
+  {
+    "scenarioId": "scenario-centro-comunitario",
+    "criterionId": "OADS-05",
+    "status": "NC",
+    "comments": "No cumple. Evidencia incompleta o desactualizada."
+  },
+  {
+    "scenarioId": "scenario-centro-comunitario",
+    "criterionId": "OADS-06",
+    "status": "C",
+    "comments": "Cumple. Evidencia verificada durante la revisión documental."
+  },
+  {
+    "scenarioId": "scenario-centro-comunitario",
+    "criterionId": "PD-01",
+    "status": "C",
+    "comments": "Cumple. Se constató la evidencia solicitada sin observaciones."
+  },
+  {
+    "scenarioId": "scenario-centro-comunitario",
+    "criterionId": "PD-02",
+    "status": "C",
+    "comments": "Cumple a satisfacción según lo evidenciado en la visita."
+  },
+  {
+    "scenarioId": "scenario-centro-comunitario",
+    "criterionId": "PD-03",
+    "status": "NC",
+    "comments": "No cumple. Evidencia incompleta o desactualizada."
+  },
+  {
+    "scenarioId": "scenario-centro-comunitario",
+    "criterionId": "PD-04",
+    "status": "C",
+    "comments": "Cumple. Evidencia verificada durante la revisión documental."
+  },
+  {
+    "scenarioId": "scenario-centro-comunitario",
+    "criterionId": "PF-01",
+    "status": "C",
+    "comments": "Cumple. Se constató la evidencia solicitada sin observaciones."
+  },
+  {
+    "scenarioId": "scenario-centro-comunitario",
+    "criterionId": "PF-02",
+    "status": "NC",
+    "comments": "No cumple. Se requiere plan de mejoramiento para este criterio."
+  },
+  {
+    "scenarioId": "scenario-centro-comunitario",
+    "criterionId": "PF-03",
+    "status": "NA",
+    "comments": "No aplica: el escenario no desarrolla este tipo de práctica."
+  },
+  {
+    "scenarioId": "scenario-centro-comunitario",
+    "criterionId": "PF-04",
+    "status": "C",
+    "comments": "Cumple. Evidencia verificada durante la revisión documental."
+  },
+  {
+    "scenarioId": "scenario-centro-comunitario",
+    "criterionId": "CMC-01",
+    "status": "NA",
+    "comments": "No aplica: el escenario no desarrolla este tipo de práctica."
+  },
+  {
+    "scenarioId": "scenario-centro-comunitario",
+    "criterionId": "CMC-02",
+    "status": "NA",
+    "comments": "No aplica para el tipo de servicios prestados en este escenario."
+  }
+]

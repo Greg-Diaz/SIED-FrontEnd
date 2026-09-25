@@ -1,0 +1,25 @@
+.action {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2);
+  padding: var(--space-3) var(--space-5);
+  border: none;
+  border-radius: var(--radius-md);
+  background: var(--color-navy-700);
+  color: var(--color-text-inverse);
+  font-weight: 700;
+  font-size: var(--fs-md);
+  text-decoration: none;
+  align-self: flex-start;
+}
+
+.action:hover {
+  background: var(--color-navy-900);
+}
+
+@media (max-width: 480px) {
+  .action {
+    align-self: stretch;
+    justify-content: center;
+  }
+}

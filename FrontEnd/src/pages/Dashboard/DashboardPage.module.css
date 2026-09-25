@@ -1,0 +1,41 @@
+.page {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-6);
+}
+
+.scenarioName {
+  margin-bottom: var(--space-4);
+  color: var(--color-text-muted);
+}
+
+.kpiGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: var(--space-4);
+}
+
+.chartsGrid {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-5);
+}
+
+.chartsRow {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: var(--space-5);
+}
+
+.summaryLink {
+  align-self: center;
+  font-size: var(--fs-sm);
+  font-weight: 700;
+  color: var(--color-accent);
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.summaryLink:hover {
+  text-decoration: underline;
+}

@@ -1,0 +1,610 @@
+[
+  {
+    "id": "AG-01",
+    "subConditionId": "AG-1",
+    "order": 1,
+    "title": "1. Naturaleza jurídica del escenario (Público - Privado - Mixto)",
+    "verificationMechanisms": {
+      "documentary": "Documento de constitución",
+      "interviewRoles": [
+        "Personal IPS"
+      ]
+    }
+  },
+  {
+    "id": "AG-02",
+    "subConditionId": "AG-1",
+    "order": 2,
+    "title": "2.Código REPS",
+    "verificationMechanisms": {
+      "documentary": "Inscripción en el REPS (Página web)",
+      "interviewRoles": [
+        "Personal IPS"
+      ]
+    }
+  },
+  {
+    "id": "AG-03",
+    "subConditionId": "AG-1",
+    "order": 3,
+    "title": "3. Servicios habilitados DHS (Resolución 2003/14 o las normas que lo sustituyan o modifiquen) y su relación con los programas en convenio.",
+    "verificationMechanisms": {
+      "documentary": "Formulario de autoevaluación para la habilitación sde servicios radicado ante la entidad territorial",
+      "onSiteVisit": "Distintivos de habilitación por servicio, según formulario radicado",
+      "interviewRoles": [
+        "Personal IPS"
+      ]
+    }
+  },
+  {
+    "id": "AG-04",
+    "subConditionId": "AG-1",
+    "order": 4,
+    "title": "4.Estructura orgánica del escenario",
+    "verificationMechanisms": {
+      "documentary": "Organigrama con las instancias definidas o responsables de las prácticas formativas y la relación docencia servicio",
+      "interviewRoles": [
+        "Personal IPS"
+      ]
+    }
+  },
+  {
+    "id": "AG-05",
+    "subConditionId": "AG-1",
+    "order": 5,
+    "title": "5. Para escenarios de prácticas clínicos: Registros estadísticos de atenciones por servicio habilitado (últimos dos años) \nPara escenaruios de práctica no clínicos institucionales: Registros de estadísticos de la población beneficiaria de los servicios o actividades desarrolladas en el escenario (últimos dos años)",
+    "verificationMechanisms": {
+      "documentary": "Información estadística según el tipo de escenario",
+      "interviewRoles": [
+        "Personal IPS"
+      ]
+    }
+  },
+  {
+    "id": "AG-06",
+    "subConditionId": "AG-1",
+    "order": 6,
+    "title": "6. Vocación docente del escenario",
+    "verificationMechanisms": {
+      "documentary": "Misión, visión, objetivos estratégicos del escenario o los documentos que hagan sus veces, institucionalmente formalizados. Requiere",
+      "interviewRoles": [
+        "Personal IPS"
+      ]
+    }
+  },
+  {
+    "id": "AG-07",
+    "subConditionId": "AG-1",
+    "order": 7,
+    "title": "7. Caracterización de la población (Aportado por la IES para escenarios no isntitucionales y su articulación con los programas académicos a desarrollarse o desarrollados en el mismo)",
+    "verificationMechanisms": {
+      "documentary": "Se verifica documentalmente, a través de la información que describe la población beneficiaria, población de influencia del escenario (grupos de edad de acuerdo al momento del curso de vida según lineamiento de MinSalud, género, población discapacitada, grupos étnicos, víctimas, entyre otros).",
+      "interviewRoles": [
+        "Personal IPS"
+      ]
+    }
+  },
+  {
+    "id": "AG-08",
+    "subConditionId": "AG-1",
+    "order": 8,
+    "title": "8. Evidencias de asignación de recursos para el mantenimiento y fortalecimiento de la relación docencia servicio.",
+    "verificationMechanisms": {
+      "documentary": "soportes de inversiones para el mantenimiento y fortalecimiento de la docencia servicio, incluidas las inversiones realizadas producto de los planes de mejoramiento surgidos de la autoevaluación y evidencia de los recursos tecnológicos o de infraestructura, provenientes de las contraprestaciones, según lo pactado en los convenios de relación docencia servicio.",
+      "onSiteVisit": "Verificación inversiones declaradas",
+      "interviewRoles": [
+        "Personal IPS",
+        "Estudiantes",
+        "Docentes",
+        "Coordinador de práctica formativa Unicorsalud"
+      ]
+    }
+  },
+  {
+    "id": "CI-2.1-01",
+    "subConditionId": "CI-2.1",
+    "groupId": "CI-2.1-G1",
+    "order": 1,
+    "title": "Estimación del número máximo de estudiantes permitidos para práctica formativa por servicio habilitado, de acuerdo con los lineamientos de referencia para la asignación de cupos de estudiantes en escenarios clínicos",
+    "verificationMechanisms": {
+      "documentary": "Estudio actualizado de la capacidad instalada y utilizada para la docencia servicio, por servicio habilitado"
+    }
+  },
+  {
+    "id": "CI-2.1-02",
+    "subConditionId": "CI-2.1",
+    "groupId": "CI-2.1-G1",
+    "order": 2,
+    "title": "Reporte del número máximo de estudiantes que se encuentran actualmente en práctica simultánea en cada servicio y en el escenario de práctica.",
+    "verificationMechanisms": {
+      "documentary": "Estudio actualizado de la capacidad instalada y utilizada para la docencia servicio, por servicio habilitado"
+    }
+  },
+  {
+    "id": "CI-2.1-03",
+    "subConditionId": "CI-2.1",
+    "groupId": "CI-2.1-G1",
+    "order": 3,
+    "title": "Reporte del porcentaje de ocupación y disponibilidad de la capacidad instalada, por servicio habilitado",
+    "verificationMechanisms": {
+      "documentary": "Estudio actualizado de la capacidad instalada y utilizada para la docencia servicio, por servicio habilitado"
+    }
+  },
+  {
+    "id": "CI-2.1-04",
+    "subConditionId": "CI-2.1",
+    "groupId": "CI-2.1-G2",
+    "order": 1,
+    "title": "Capacidad de los espacios para la docencia.",
+    "verificationMechanisms": {
+      "documentary": "Estudio actualizado de la capacidad instalada y utilizada para la docencia servicio, por servicio habilitado",
+      "onSiteVisit": "Verificación de la infraestructura y medios educativos para la docencia, diferente a las áreas asistenciales",
+      "interviewRoles": [
+        "Personal IPS",
+        "Estudiantes",
+        "Docentes",
+        "Coordinador de práctica formativa Unicorsalud"
+      ]
+    }
+  },
+  {
+    "id": "CI-2.2-01",
+    "subConditionId": "CI-2.2",
+    "groupId": "CI-2.2-G1",
+    "order": 1,
+    "title": "Auditorio para desarrollo de actividades académicas",
+    "verificationMechanisms": {
+      "onSiteVisit": "Verificación de la infraestructura y medios educativos para la docencia, diferente a las áreas asistenciales",
+      "interviewRoles": [
+        "Personal IPS",
+        "Estudiantes",
+        "Docentes",
+        "Coordinador de práctica formativa Unicorsalud"
+      ]
+    }
+  },
+  {
+    "id": "CI-2.2-02",
+    "subConditionId": "CI-2.2",
+    "groupId": "CI-2.2-G1",
+    "order": 2,
+    "title": "Salones con dotación",
+    "verificationMechanisms": {
+      "onSiteVisit": "Verificación de la infraestructura y medios educativos para la docencia, diferente a las áreas asistenciales",
+      "interviewRoles": [
+        "Personal IPS",
+        "Estudiantes",
+        "Docentes",
+        "Coordinador de práctica formativa Unicorsalud"
+      ]
+    }
+  },
+  {
+    "id": "CI-2.2-03",
+    "subConditionId": "CI-2.2",
+    "groupId": "CI-2.2-G1",
+    "order": 3,
+    "title": "Biblioteca",
+    "verificationMechanisms": {
+      "onSiteVisit": "Verificación de la infraestructura y medios educativos para la docencia, diferente a las áreas asistenciales",
+      "interviewRoles": [
+        "Personal IPS",
+        "Estudiantes",
+        "Docentes",
+        "Coordinador de práctica formativa Unicorsalud"
+      ]
+    }
+  },
+  {
+    "id": "CI-2.2-04",
+    "subConditionId": "CI-2.2",
+    "groupId": "CI-2.2-G1",
+    "order": 4,
+    "title": "Dispositivos y equipos disponibles para la docencia servicio",
+    "verificationMechanisms": {
+      "onSiteVisit": "Verificación de la infraestructura y medios educativos para la docencia, diferente a las áreas asistenciales",
+      "interviewRoles": [
+        "Personal IPS",
+        "Estudiantes",
+        "Docentes",
+        "Coordinador de práctica formativa Unicorsalud"
+      ]
+    }
+  },
+  {
+    "id": "CI-2.2-05",
+    "subConditionId": "CI-2.2",
+    "groupId": "CI-2.2-G1",
+    "order": 5,
+    "title": "Computadores, acceso a internet",
+    "verificationMechanisms": {
+      "onSiteVisit": "Verificación de la infraestructura y medios educativos para la docencia, diferente a las áreas asistenciales",
+      "interviewRoles": [
+        "Personal IPS",
+        "Estudiantes",
+        "Docentes",
+        "Coordinador de práctica formativa Unicorsalud"
+      ]
+    }
+  },
+  {
+    "id": "CI-2.2-06",
+    "subConditionId": "CI-2.2",
+    "groupId": "CI-2.2-G2",
+    "order": 1,
+    "title": "Espacio físico para reuniones",
+    "verificationMechanisms": {
+      "onSiteVisit": "Verificación de la infraestructura y medios educativos para la docencia, diferente a las áreas asistenciales",
+      "interviewRoles": [
+        "Personal IPS",
+        "Estudiantes",
+        "Docentes",
+        "Coordinador de práctica formativa Unicorsalud"
+      ]
+    }
+  },
+  {
+    "id": "CI-2.2-07",
+    "subConditionId": "CI-2.2",
+    "groupId": "CI-2.2-G2",
+    "order": 2,
+    "title": "Computador, equipos e insumos para el desarrollo de las prácticas",
+    "verificationMechanisms": {
+      "onSiteVisit": "Verificación de la infraestructura y medios educativos para la docencia, diferente a las áreas asistenciales",
+      "interviewRoles": [
+        "Personal IPS",
+        "Estudiantes",
+        "Docentes",
+        "Coordinador de práctica formativa Unicorsalud"
+      ]
+    }
+  },
+  {
+    "id": "CI-2.2-08",
+    "subConditionId": "CI-2.2",
+    "groupId": "CI-2.2-G3",
+    "order": 1,
+    "title": "Salones, equipos, consultorios, camas en hogares comunitarios e insumos",
+    "verificationMechanisms": {
+      "onSiteVisit": "Verificación de la infraestructura y medios educativos para la docencia, diferente a las áreas asistenciales",
+      "interviewRoles": [
+        "Personal IPS",
+        "Estudiantes",
+        "Docentes",
+        "Coordinador de práctica formativa Unicorsalud"
+      ]
+    }
+  },
+  {
+    "id": "CI-2.2-09",
+    "subConditionId": "CI-2.2",
+    "groupId": "CI-2.2-G3",
+    "order": 2,
+    "title": "Computadores, acceso a internet",
+    "verificationMechanisms": {
+      "onSiteVisit": "Verificación de la infraestructura y medios educativos para la docencia, diferente a las áreas asistenciales",
+      "interviewRoles": [
+        "Personal IPS",
+        "Estudiantes",
+        "Docentes",
+        "Coordinador de práctica formativa Unicorsalud"
+      ]
+    }
+  },
+  {
+    "id": "SPyB-01",
+    "subConditionId": "SPyB-1",
+    "order": 1,
+    "title": "Pólizas de responsabilidad civil extracontractual vigentes para estudiantes rotando por el escenario (Decreto 780 de 2016 o la norma que lo sustituya o modifique)",
+    "verificationMechanisms": {
+      "documentary": "Verificación de la vigencia de las pólizas, en las condiciones de suscripción definidas en la normatividad vigente",
+      "interviewRoles": [
+        "Coordinador de práctica formativa Unicorsalud"
+      ]
+    }
+  },
+  {
+    "id": "SPyB-02",
+    "subConditionId": "SPyB-1",
+    "order": 2,
+    "title": "Afiliación al Sistema General de Seguridad Social en Salud – SGSSS.",
+    "verificationMechanisms": {
+      "documentary": "Verificación de la afiliación de los estudiantes al SGSSS, incluidos los riesgos laborales, en las condiciones definidas en las normatividad vigente",
+      "interviewRoles": [
+        "Coordinador de práctica formativa Unicorsalud"
+      ]
+    }
+  },
+  {
+    "id": "SPyB-03",
+    "subConditionId": "SPyB-1",
+    "order": 3,
+    "title": "Elementos de protección personal.",
+    "verificationMechanisms": {
+      "documentary": "Evidencia de entrega de elementos de protección personal a estudiantes y profesores acordes al tipo de práctica, así como disponibilidad de sdispositivos para higiene (lavado de manos y gel antibacterial)",
+      "onSiteVisit": "Se verifica durante el recorrido por el escenario, la disponibilidad y uso adecuado de los elementos de protrección personal, así como de dispositivos para la higiene",
+      "interviewRoles": [
+        "Personal IPS",
+        "Estudiantes",
+        "Docentes",
+        "Coordinador de práctica formativa Unicorsalud"
+      ]
+    }
+  },
+  {
+    "id": "SPyB-04",
+    "subConditionId": "SPyB-1",
+    "order": 4,
+    "title": "Protocolos de bioseguridad (existencia y aplicación).",
+    "verificationMechanisms": {
+      "documentary": "Documento con protocolos de bioseguridad, incluidos los relacionados con la atenciónj de accidentes con riesgo biológicos",
+      "interviewRoles": [
+        "Personal IPS",
+        "Estudiantes",
+        "Docentes",
+        "Coordinador de práctica formativa Unicorsalud"
+      ]
+    }
+  },
+  {
+    "id": "SPyB-05",
+    "subConditionId": "SPyB-1",
+    "order": 5,
+    "title": "Guías de práctica clínica y protocolos de atención (Existencia, acceso y aplicación)",
+    "verificationMechanisms": {
+      "documentary": "Documento con las guías de manejo para las principales causas de morbilidad y mortalidad en el escenario o protocolo de intervención (individual, familiar o comunitaria) en escenarios no clínicos",
+      "interviewRoles": [
+        "Personal IPS",
+        "Estudiantes",
+        "Docentes",
+        "Coordinador de práctica formativa Unicorsalud"
+      ]
+    }
+  },
+  {
+    "id": "SPyB-06",
+    "subConditionId": "SPyB-1",
+    "order": 6,
+    "title": "Condiciones generales de bienestar en el escenario (Para aquellas prácticas formativas de internado y residencia, y para aquellas que requieran turnos nocturnos y de fines de semana deberá garantizarse el suministro de alimentación).",
+    "verificationMechanisms": {
+      "onSiteVisit": "Se verifica ocularmente la disponibilidad de casilleros, áreas de descanso, alimentación y sanitarios, de acuerdo con los tiempos de práctica (Decreto 780 de 2016) y su desarrollo en servicios de internación.\nRequiere entrevista con estudiantes, docentes, la coordinación de docencia servicio de la IPS y la coordinación de prácticas de las IES en convenio, para su verificación.",
+      "interviewRoles": [
+        "Personal IPS",
+        "Estudiantes",
+        "Docentes",
+        "Coordinador de práctica formativa Unicorsalud"
+      ]
+    }
+  },
+  {
+    "id": "OADS-01",
+    "subConditionId": "OADS-1",
+    "order": 1,
+    "title": "Reglamento de prácticas formativas (Existencia, divulgación, acceso)",
+    "verificationMechanisms": {
+      "documentary": "Documento con el reglamento de prácticas formativas en el escenario.",
+      "interviewRoles": [
+        "Personal IPS",
+        "Estudiantes",
+        "Docentes",
+        "Coordinador de práctica formativa Unicorsalud"
+      ]
+    }
+  },
+  {
+    "id": "OADS-02",
+    "subConditionId": "OADS-1",
+    "order": 2,
+    "title": "Contratos especiales de práctica formativa, en los términos de la resolución 1052 de 2020 o las normas que la susttituyan o modifiquen",
+    "verificationMechanisms": {
+      "documentary": "Existencia y actualización de los contratos especiales de práctica formativa suscritos entre los estudiantes de especializaciones médico - quirúrgicas (residentes) beneficiarios, las IES oferentes de esos programas y los prestadores de servicios de salud, que se constituyan como base para el desarrollo de programas de especialización médico - quirúrgica.",
+      "interviewRoles": [
+        "Personal IPS",
+        "Estudiantes",
+        "Coordinador de práctica formativa Unicorsalud"
+      ]
+    }
+  },
+  {
+    "id": "OADS-03",
+    "subConditionId": "OADS-1",
+    "order": 3,
+    "title": "Responsables de supervisar las prácticas formativas (IPS e IES)",
+    "verificationMechanisms": {
+      "documentary": "Documentos en los que se evidencie la designación del o los responsables de supervisar las prácticas, tanto por parte de las IES (diferente a los docentes de práctica), como de la IPS o escenario no clínico",
+      "interviewRoles": [
+        "Personal IPS",
+        "Estudiantes",
+        "Docentes",
+        "Coordinador de práctica formativa Unicorsalud"
+      ]
+    }
+  },
+  {
+    "id": "OADS-04",
+    "subConditionId": "OADS-1",
+    "order": 4,
+    "title": "Comité docencia servicio: Constitución y actividad, participación e impacto sobre las prácticas formativas (decreto 780 de 2016 o la norma que lo sustituya o modifique)",
+    "verificationMechanisms": {
+      "documentary": "Acta de constitución, actas de funcionamiento, participación, según lo establecido en la normatividad vigente y evidencias de su impacto sobre la docencia servicio, por IES",
+      "interviewRoles": [
+        "Personal IPS",
+        "Estudiantes",
+        "Docentes",
+        "Coordinador de práctica formativa Unicorsalud"
+      ]
+    }
+  },
+  {
+    "id": "OADS-05",
+    "subConditionId": "OADS-1",
+    "order": 5,
+    "title": "Proceso de inducción (Reglamento de prácticas, protocolos de bioseguridad, guías de manejo, planes de práctica formativa, estructura orgánica y presentación del responsable de la docencia servicio en la IPS)",
+    "verificationMechanisms": {
+      "documentary": "Actas o registro de actividades de inducción a estudiantes y docentes sobre dichas temáticas.",
+      "interviewRoles": [
+        "Personal IPS",
+        "Estudiantes",
+        "Docentes",
+        "Coordinador de práctica formativa Unicorsalud"
+      ]
+    }
+  },
+  {
+    "id": "OADS-06",
+    "subConditionId": "OADS-1",
+    "order": 6,
+    "title": "Sistema de Información y gestión documental",
+    "verificationMechanisms": {
+      "onSiteVisit": "Verificación de la existencia de un sistema de gestión documental para la docencia servicio (actas de comité DS, autoevaluaciones, planes de4 mejora, planes de práctica formativa, pólizas, afiliaciones al sistema de seguridad social.",
+      "interviewRoles": [
+        "Personal IPS",
+        "Coordinador de práctica formativa Unicorsalud"
+      ]
+    }
+  },
+  {
+    "id": "PD-01",
+    "subConditionId": "PD-1",
+    "order": 1,
+    "title": "Idoneidad de los profesores para las prácticas formativas.",
+    "verificationMechanisms": {
+      "documentary": "Relación de docentes por IES y programa académico, con nivel y área de formación - Hojas de vida con soportes.",
+      "interviewRoles": [
+        "Personal IPS",
+        "Estudiantes",
+        "Docentes",
+        "Coordinador de práctica formativa Unicorsalud"
+      ]
+    }
+  },
+  {
+    "id": "PD-02",
+    "subConditionId": "PD-1",
+    "order": 2,
+    "title": "Plan de formación continua en temas del desarrollo de la práctica que incluya formación en pedagogía y docencia, para el personal asistencial con funciones docentes",
+    "verificationMechanisms": {
+      "documentary": "Documento con el plan de capacitación docente y educación continua previsto para el escenario, con o sin la participación de la IES en convenio. Para el caso de escenarios en los que ya se desarrollen prácticas formativas, se requerirán evidencias de la implementación de dicho plan.",
+      "interviewRoles": [
+        "Personal IPS",
+        "Docentes",
+        "Coordinador de práctica formativa Unicorsalud"
+      ]
+    }
+  },
+  {
+    "id": "PD-03",
+    "subConditionId": "PD-1",
+    "order": 3,
+    "title": "Suficiencia de profesores para las prácticas formativas",
+    "verificationMechanisms": {
+      "documentary": "Plan de prácticas formativas por programa (Anexos técnicos) actualizado por programa.",
+      "interviewRoles": [
+        "Personal IPS",
+        "Estudiantes",
+        "Docentes",
+        "Coordinador de práctica formativa Unicorsalud"
+      ]
+    }
+  },
+  {
+    "id": "PD-04",
+    "subConditionId": "PD-1",
+    "order": 4,
+    "title": "Función docente incorporada en los contratos y reconocimientos por parte de las IES.",
+    "verificationMechanisms": {
+      "documentary": "Contratos de los docentes para las prácticas formativas (Muestreo aleatorio).",
+      "interviewRoles": [
+        "Personal IPS",
+        "Docentes",
+        "Coordinador de práctica formativa Unicorsalud"
+      ]
+    }
+  },
+  {
+    "id": "PF-01",
+    "subConditionId": "PF-1",
+    "order": 1,
+    "title": "Registro calificado de los programas que desarrollan prácticas formativas en el escenario (aplica para programas en funcionamiento).",
+    "verificationMechanisms": {
+      "documentary": "Copia de la Resolución de registro calificado vigente para programas que desarrollan prácticas formativas en el escenario",
+      "interviewRoles": [
+        "Personal IPS",
+        "Coordinador de práctica formativa Unicorsalud"
+      ]
+    }
+  },
+  {
+    "id": "PF-02",
+    "subConditionId": "PF-1",
+    "order": 2,
+    "title": "Convenios docencia servicio suscritos con las IES para el desarrollo de programas activos y para programas proyectados para desarrollarse en el escenario. (Decreto 780 de 2016 y la Ley 1917 de 2018 o la norma que lo sustituya o modifique).",
+    "verificationMechanisms": {
+      "documentary": "Convenios docencia servicio vigentes (Programas activos y proyectados). Verificación de componentes mínimos de los mismos, según la normativa vigente.",
+      "interviewRoles": [
+        "Personal IPS",
+        "Coordinador de práctica formativa Unicorsalud"
+      ]
+    }
+  },
+  {
+    "id": "PF-03",
+    "subConditionId": "PF-1",
+    "order": 3,
+    "title": "Mecanismos de evaluación de las prácticas formativas (anexos técnicos). Para programas académicos activos, verificar conocimiento y cumplimiento del plan de delegación progresiva de responsabilidades",
+    "verificationMechanisms": {
+      "documentary": "Plan de prácticas formativas (anexo técnico) por programa académico - Verificación de cumplimiento del plan de delegación progresiva de responsabilidades por programa.",
+      "interviewRoles": [
+        "Personal IPS",
+        "Estudiantes",
+        "Docentes",
+        "Coordinador de práctica formativa Unicorsalud"
+      ]
+    }
+  },
+  {
+    "id": "PF-04",
+    "subConditionId": "PF-1",
+    "order": 4,
+    "title": "Mecanismos de evaluación de las prácticas formativas.",
+    "verificationMechanisms": {
+      "documentary": "Plan de prácticas formativas (anexo técnico) por programa académico - Verificar el cumplimiento de los mecanismos de evaluación registrados en los planes.",
+      "interviewRoles": [
+        "Personal IPS",
+        "Estudiantes",
+        "Docentes",
+        "Coordinador de práctica formativa Unicorsalud"
+      ]
+    }
+  },
+  {
+    "id": "CMC-01",
+    "subConditionId": "CMC-1",
+    "order": 1,
+    "title": "Autoevaluación de la relación docencia servicio",
+    "verificationMechanisms": {
+      "documentary": "Documento con el modelo de autoevaluación de la relación docencia servicio y para el caso de los escenarios en los que ya se desarrollan prácticas formativas, evidencias de su implementación. Dicho modelo de autoevaluación debe contemplar la participación de los diferentes actores involucrados en la relación docencia servicio e incluir las condiciones de calidad descritas en el presente modelo de evaluación de los escenarios de práctica.",
+      "interviewRoles": [
+        "Personal IPS",
+        "Coordinador de práctica formativa Unicorsalud",
+        "Estudiantes",
+        "Docentes"
+      ]
+    }
+  },
+  {
+    "id": "CMC-02",
+    "subConditionId": "CMC-1",
+    "order": 2,
+    "title": "Planes de mejoramiento para la relación docencia servicio en el escenario.",
+    "verificationMechanisms": {
+      "documentary": "Documento con el plan de mejoramiento que haya surgido de la autoevaluación de la docencia servicio en el escenario, con evidencias de su implementación.",
+      "interviewRoles": [
+        "Personal IPS",
+        "Coordinador de práctica formativa Unicorsalud",
+        "Estudiantes",
+        "Docentes"
+      ]
+    }
+  }
+]

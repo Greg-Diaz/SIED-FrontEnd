@@ -1,0 +1,95 @@
+.figure {
+  margin: 0;
+  padding: var(--space-5);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  background: var(--color-surface);
+  box-shadow: var(--shadow-sm);
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+}
+
+.caption {
+  font-size: var(--fs-md);
+  font-weight: 700;
+  color: var(--color-navy-900);
+}
+
+.body {
+  display: flex;
+  align-items: center;
+  gap: var(--space-5);
+  flex-wrap: wrap;
+}
+
+.donut {
+  --size: 128px;
+  width: var(--size);
+  height: var(--size);
+  border-radius: 50%;
+  flex-shrink: 0;
+  position: relative;
+}
+
+.donutHole {
+  position: absolute;
+  inset: 18%;
+  border-radius: 50%;
+  background: var(--color-surface);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.donutTotal {
+  font-size: var(--fs-lg);
+  font-weight: 700;
+  color: var(--color-navy-900);
+}
+
+.donutTotalLabel {
+  font-size: 0.6875rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--color-text-muted);
+}
+
+.legend {
+  flex: 1;
+  min-width: 200px;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+}
+
+.legendItem {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  font-size: var(--fs-sm);
+}
+
+.swatch {
+  width: 12px;
+  height: 12px;
+  border-radius: 3px;
+  flex-shrink: 0;
+}
+
+.legendLabel {
+  font-weight: 700;
+  color: var(--color-navy-900);
+  min-width: 6.5rem;
+}
+
+.legendCount {
+  color: var(--color-text);
+}
+
+.legendPercent {
+  margin-left: auto;
+  color: var(--color-text-muted);
+}

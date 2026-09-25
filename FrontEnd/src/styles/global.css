@@ -1,0 +1,201 @@
+/*
+ * Tokens de diseño y base tipográfica (Fase 6 — docs/PROMPT.md §21/§22).
+ * Paleta institucional deliberadamente sobria (azul marino + un único acento
+ * teal), sin gradientes ni colores saturados, para evitar la estética de
+ * "dashboard genérico de administración".
+ */
+
+:root {
+  color-scheme: light;
+
+  /* Color */
+  --color-navy-900: #101d2c;
+  --color-navy-700: #1c3a56;
+  --color-navy-600: #274a6b;
+  --color-accent: #0e7c7b;
+  --color-accent-soft: #e3f2f1;
+  --color-bg: #f6f7f9;
+  --color-surface: #ffffff;
+  --color-border: #e2e6ea;
+  --color-border-strong: #c9d0d8;
+  --color-text: #1a2330;
+  --color-text-muted: #5a6472;
+  --color-text-inverse: #ffffff;
+  --color-danger: #a4231e;
+  --color-danger-soft: #fbeceb;
+  --color-danger-border: #eccfcd;
+  --color-danger-strong: #841c18;
+  /*
+   * success/warning (Fase 13 §2): antes repetidos como hex literal en 6+
+   * archivos (ComplianceStatusBadge, CompletionStatusBadge,
+   * EvaluationStatusSelector, EvaluationSaveButton, ConditionPage) — mismo
+   * valor, sin una fuente de verdad única. Se centralizan aquí siguiendo el
+   * mismo patrón de 3 tonos que ya usa `--color-danger`/`--color-danger-soft`
+   * (texto/fondo suave/borde), sin cambiar ningún valor visual existente.
+   */
+  --color-success: #14562f;
+  --color-success-soft: #e9f6ee;
+  --color-success-border: #b8e0c6;
+  --color-success-strong: #1c7a4b;
+  --color-warning: #8a5a00;
+  --color-warning-soft: #fdf3e3;
+  --color-warning-border: #f1d9a8;
+  --color-focus-ring: #0e7c7b;
+
+  /* Tipografía */
+  --font-sans:
+    system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  --fs-sm: 0.8125rem;
+  --fs-base: 0.9375rem;
+  --fs-md: 1.0625rem;
+  --fs-lg: 1.25rem;
+  --fs-xl: 1.625rem;
+  --fs-2xl: 2rem;
+  --lh-base: 1.55;
+
+  /* Espaciado */
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.5rem;
+  --space-6: 2rem;
+  --space-7: 3rem;
+
+  /* Formas */
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --shadow-sm: 0 1px 2px rgba(16, 29, 44, 0.06);
+  --shadow-md: 0 4px 16px rgba(16, 29, 44, 0.08);
+
+  /* Layout */
+  --sidebar-width: 272px;
+  --header-height: 64px;
+  --content-max-width: 1120px;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--color-bg);
+  color: var(--color-text);
+  font-family: var(--font-sans);
+  font-size: var(--fs-base);
+  line-height: var(--lh-base);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  margin: 0;
+  color: var(--color-navy-900);
+  font-weight: 600;
+  line-height: 1.25;
+}
+
+p {
+  margin: 0;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+button,
+input,
+textarea,
+select {
+  font: inherit;
+  color: inherit;
+}
+
+button {
+  cursor: pointer;
+}
+
+a {
+  color: var(--color-accent);
+}
+
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+/* Foco visible consistente en toda la app (docs/PROMPT.md §26 accesibilidad) */
+:focus-visible {
+  outline: 3px solid var(--color-focus-ring);
+  outline-offset: 2px;
+  border-radius: var(--radius-sm);
+}
+
+/* Enlace "saltar al contenido" — visible solo al recibir foco por teclado */
+.skip-link {
+  position: absolute;
+  top: -48px;
+  left: var(--space-4);
+  z-index: 1000;
+  background: var(--color-navy-900);
+  color: var(--color-text-inverse);
+  padding: var(--space-2) var(--space-4);
+  border-radius: var(--radius-sm);
+  text-decoration: none;
+  font-weight: 600;
+  transition: top 0.15s ease;
+}
+
+.skip-link:focus-visible {
+  top: var(--space-4);
+}
+
+/*
+ * Encabezado de sección reutilizable (Fase 13 §2, §23): antes duplicado
+ * IDÉNTICO en 4 archivos (`DashboardPage`, `TableOfContentsPage`,
+ * `SummaryPage`, `ConditionPage` — este último con una segunda variante,
+ * `.resultTitle`, a la que además le faltaba `margin-bottom`). Se centraliza
+ * como utilidad global (mismo patrón que `.skip-link`/`.sr-only` en este
+ * archivo) en vez de repetirla por módulo CSS. `font-weight`/color ya vienen
+ * del selector `h1,h2,h3,h4` de más arriba — esta clase solo aporta tamaño y
+ * espaciado.
+ */
+.section-title {
+  font-size: var(--fs-lg);
+  margin-bottom: var(--space-4);
+}
+
+/* Oculta visualmente pero mantiene accesible a lectores de pantalla */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+@media (max-width: 400px) {
+  :root {
+    --fs-2xl: 1.625rem;
+    --fs-xl: 1.375rem;
+  }
+}

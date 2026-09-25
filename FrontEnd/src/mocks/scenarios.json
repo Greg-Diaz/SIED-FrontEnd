@@ -1,0 +1,16 @@
+[
+  {
+    "id": "scenario-hospital-central",
+    "practiceName": "Hospital Central de Prácticas Formativas",
+    "municipality": "Cali",
+    "servicesToProvide": "Medicina Interna, Cirugía General, Pediatría, Enfermería",
+    "preparedBy": "Coordinación de Docencia Servicio - Unicorsalud"
+  },
+  {
+    "id": "scenario-centro-comunitario",
+    "practiceName": "Centro de Práctica Comunitaria San José",
+    "municipality": "Palmira",
+    "servicesToProvide": "Promoción y Mantenimiento de la Salud, Atención Primaria en Salud",
+    "preparedBy": "Coordinación de Docencia Servicio - Unicorsalud"
+  }
+]
